@@ -28,7 +28,7 @@ namespace NBXplorer.Tests
 			//Network = NBitcoin.Altcoins.Dash.Instance.Regtest;
 
 			//CryptoCode = "POLIS";
-			//nodeDownloadData = NodeDownloadData.Polis.v1_3_1;
+			//nodeDownloadData = NodeDownloadData.Polis.v1_4_3;
 			//Network = NBitcoin.Altcoins.Polis.Instance.Regtest;
 
 			//CryptoCode = "BTG";
@@ -73,6 +73,10 @@ namespace NBXplorer.Tests
 			//nodeDownloadData = NodeDownloadData.Colossus.v1_1_1;
 			//Network = NBitcoin.Altcoins.Colossus.Instance.Regtest;
 			//RPCSupportSegwit = false;
+
+			//CryptoCode = "GIN";
+			//nodeDownloadData = NodeDownloadData.Gincoin.v1_1_0_0;
+			//Network = NBitcoin.Altcoins.Gincoin.Instance.Regtest;
 
 			CryptoCode = "BTC";
 			nodeDownloadData = NodeDownloadData.Bitcoin.v0_17_0;
